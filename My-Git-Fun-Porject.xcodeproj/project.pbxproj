@@ -403,7 +403,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "My-Git-Fun-Porject/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.warcode.My-Git-Fun-Porject";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.warcode.My-Git-Fun-Project";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -414,7 +414,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "My-Git-Fun-Porject/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.warcode.My-Git-Fun-Porject";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.warcode.My-Git-Fun-Project";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -484,6 +484,7 @@
 				0104169F1D5137D2003B8F44 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		010416A01D5137D2003B8F44 /* Build configuration list for PBXNativeTarget "My-Git-Fun-PorjectTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +493,7 @@
 				010416A21D5137D2003B8F44 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		010416A31D5137D2003B8F44 /* Build configuration list for PBXNativeTarget "My-Git-Fun-PorjectUITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +502,7 @@
 				010416A51D5137D2003B8F44 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
